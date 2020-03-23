@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.jdevs</groupId>
   <artifactId>studentapp</artifactId>
-  <version>2.5-SNAPSHOT</version>
+  <version>2.5</version>
   <packaging>war</packaging>
   <build>
     <sourceDirectory>src</sourceDirectory>
@@ -29,7 +29,7 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://10.128.0.10:8081/repository/student-rel/</url>
+            <url>http://3.135.182.121:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
